@@ -21,7 +21,6 @@ I bring hands-on experience in IT support, Microsoft 365, Windows Server, networ
 - Microsoft 365 and Exchange Online support.
 - Windows Server, Active Directory, and remote desktop environments.
 - VPN, DNS, connectivity, and user support troubleshooting.
-- Full-stack training with JavaScript, React, Node.js, and MongoDB.
 
 ## Opportunities
 
